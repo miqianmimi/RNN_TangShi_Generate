@@ -1,0 +1,2 @@
+model_checkpoint_path: "tangshi_generator"
+all_model_checkpoint_paths: "tangshi_generator"
